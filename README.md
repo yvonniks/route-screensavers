@@ -1,6 +1,6 @@
-# Route Conference Rooms
+# Route Screensavers
 
-Screensavers for the conference room TVs, in one app. Opens in **dark mode** with **all controls hidden**.
+A collection of Route screensavers in one app, built for the conference room TVs. Opens in **dark mode** with **all controls hidden**.
 
 Included: **Mark Starfield** and **Corner Hunter** (slowed down for big screens: one lap takes 60 s instead of 30 s).
 

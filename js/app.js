@@ -1,4 +1,4 @@
-/* Route Conference Rooms — app shell: picks a saver, owns theme/speed/controls.
+/* Route Screensavers — app shell: picks a saver, owns theme/speed/controls.
  *
  * URL presets (per-room): ?saver=starfield|cornerhunter  ?theme=dark|light  ?speed=0.5
  * Precedence on load: URL param > saved choice (this browser) > default.
